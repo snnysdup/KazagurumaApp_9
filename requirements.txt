@@ -1,0 +1,8 @@
+streamlit
+plotly
+openai
+python-dotenv
+requests
+
+sqlite3
+os
